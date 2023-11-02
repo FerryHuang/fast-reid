@@ -10,3 +10,6 @@ DATASETS:
   TESTS: ("Market1501",)
 
 OUTPUT_DIR: logs/market1501/bagtricks_R101-ibn
+
+MODEL:
+  WEIGHTS: checkpoints/fast_-reid/market_bot_R101-ibn.pth
