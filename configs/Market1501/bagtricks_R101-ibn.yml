@@ -12,4 +12,4 @@ DATASETS:
 OUTPUT_DIR: logs/market1501/bagtricks_R101-ibn
 
 MODEL:
-  WEIGHTS: checkpoints/fast_-reid/market_bot_R101-ibn.pth
+  WEIGHTS: checkpoints/fast_reid/market_bot_R101-ibn.pth
