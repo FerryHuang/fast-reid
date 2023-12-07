@@ -33,3 +33,6 @@ TEST:
   IMS_PER_BATCH: 256
 
 OUTPUT_DIR: logs/veri/sbs_R50-ibn
+
+MODEL:
+  WEIGHTS: checkpoints/fast_reid/veri_sbs_R50-ibn.pth
